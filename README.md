@@ -15,7 +15,9 @@
 
 # Statistics
 
-[![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmelari)](https://github.com/anuraghazra/github-readme-stats)
+[![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmelari&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmelari&layout=compact)
 <!--
 **lmelari/lmelari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
