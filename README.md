@@ -13,7 +13,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-## Statistics
+# Statistics
 
 [![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmelari)](https://github.com/anuraghazra/github-readme-stats)
 <!--
