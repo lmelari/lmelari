@@ -3,7 +3,8 @@
 <!--[![LinkedIn](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg)][1]
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile)-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="20" width="20"/> Follow me on LinkedIn https://www.linkedin.com/in/leandromelari/ 
-<br>
+
+:email: E-Mail me at [leandro@lrows.com.br](mailto:leandro@lrows.com.br)  
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="20" width="20"/> Follow me on LinkedIn https://www.linkedin.com/in/leandromelari/
 -->
